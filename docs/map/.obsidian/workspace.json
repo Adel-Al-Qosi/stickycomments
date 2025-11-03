@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6643d23b206b70c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "random-ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "random-ideas"
-            }
-          },
-          {
             "id": "5c97cf4e440975e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solutions-ideas.md",
-                "mode": "preview",
+                "file": "private/all-random-ideas.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solutions-ideas"
+              "title": "all-random-ideas"
+            }
+          },
+          {
+            "id": "4c8dc227ca61fff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/all-random-ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "all-random-ideas"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "aa353ef65be0e71e",
@@ -104,36 +104,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04c42ef0cfe3ec93",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "solutions-ideas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for solutions-ideas"
-            }
-          },
-          {
             "id": "ec9514c2e75da583",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solutions-ideas.md",
+                "file": "random-ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from solutions-ideas"
+              "title": "Outgoing links from random-ideas"
             }
           },
           {
@@ -157,16 +138,46 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "solutions-ideas.md",
+                "file": "open-random-ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of solutions-ideas"
+              "title": "Outline of open-random-ideas"
+            }
+          },
+          {
+            "id": "3a7d0253d5ebe072",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "random-ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for random-ideas"
+            }
+          },
+          {
+            "id": "08157e0b081d1e40",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,12 +192,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5c97cf4e440975e6",
+  "active": "4c8dc227ca61fff2",
   "lastOpenFiles": [
-    "random-ideas.md",
+    "edge-cases.md",
+    "private/all-random-ideas.md",
+    "FEATURES.md",
+    "TECH-STACK.md",
+    "future-plans.md",
+    "private/structure.md",
+    "private/solutions-ideas.md",
+    "private/open-random-ideas.md",
+    "all-random-ideas.md",
+    "private",
+    "open-random-ideas.md",
     "solutions-ideas.md"
   ]
 }
