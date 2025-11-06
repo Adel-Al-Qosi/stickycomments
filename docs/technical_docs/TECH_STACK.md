@@ -13,6 +13,9 @@ Using JavaScript for simplicity and ease of migration.
     SQLite 3
 Simple and efficient local database.
 
+## ORM:
+    Sequelize
+
 ## Testing:
     Jest
 
