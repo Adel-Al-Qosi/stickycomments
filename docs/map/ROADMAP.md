@@ -33,6 +33,8 @@ The main comment-related points StickyComments trying to address:
 - Storing useful metadata and providing helpful context.
 - Searching and filtering comments across a project/codebase.
 - Core inline functionalities.
+- Limited experimentation with an initial language support.
+- Porting to one initial code environment.
 - Explore StickyComments dedicated flags for different uses.
 
 ---
