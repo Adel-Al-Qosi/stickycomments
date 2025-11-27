@@ -1,17 +1,16 @@
 module.exports = {
-    development: {
-        storage: process.env.DB_STORAGE,
-        dialect: "sqlite",
-        seederStorage: "sequelize",
-        benchmark: true,
-        logQueryParameters: true,
-        typeValidation: true,
-
-    },
-    test: {
-        // TODO: add test config
-    },
-    production: {
-        // TODO: add production config
-    }
-}
+  development: {
+    storage: "development/testing_storage.db",
+    dialect: "sqlite",
+    seederStorage: "sequelize",
+    benchmark: true,
+    logQueryParameters: true,
+    typeValidation: true,
+  },
+  test: {
+    // TODO: add test config
+  },
+  production: {
+    // TODO: add production config
+  },
+};

@@ -5,4 +5,9 @@
 docs/map/private/
 # ----------------------------------------------------------------
 
+# standard files to ignore
 node_modules
+.env
+
+# development tools to ignore
+development/
